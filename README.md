@@ -1,0 +1,2 @@
+- 👨‍💻 Développeur Fullstack, je m'interesse à tout, actuellement concentré sur Vuejs en front et NodeJs en back.
+- 🏷 Gitlab: https://gitlab.com/WilliamKara 
